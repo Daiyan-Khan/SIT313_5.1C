@@ -1,0 +1,24 @@
+.ui.button {
+  background-image: linear-gradient(to center, #09b9ff, #172cea, #064057);
+  margin-right: 10px;
+  margin-left:760px;
+  margin-top: 10px;
+  color: #126690;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.ui.button:hover {
+  background-image: linear-gradient(to center, #2a3de8, #2289b1, #2a3de8);
+  color: #ffffff;
+}
+
+.ui.button:active {
+  background-image: linear-gradient(to center, #2289b1, #2a3de8, #2289b1);
+  color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
