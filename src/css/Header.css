@@ -1,10 +1,10 @@
 /* Header.css */
 
 .header {
-  background-image: linear-gradient(to bottom, #2262b1, #41c5fa, #2ab4eb);
+  background: rgb(153, 213, 255);
   padding: 20px;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border: 3px solid black;
   margin-bottom: 20px;
 }
 
